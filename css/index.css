@@ -66,6 +66,11 @@ p {
     line-height: 1.4;
 }
 
+.headerImage {
+    padding:30px;
+    margin-left: 27px;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
