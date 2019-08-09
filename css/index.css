@@ -187,6 +187,9 @@ nav a {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
+.aboutFooter {
+    
+}
 
 footer {
     width: 100%;
@@ -210,4 +213,18 @@ footer nav a {
     color: white;
     text-decoration: none;
     margin-top: -20px;
+}
+
+#aboutMain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#aboutMain .aboutGrid{
+    width: 48%;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 25px;
 }
