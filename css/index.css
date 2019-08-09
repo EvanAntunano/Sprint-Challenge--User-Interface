@@ -79,6 +79,9 @@ nav a {
     font-size: 13px;
     font-weight: bold;
 }
+nav a:hover{
+    color: fuchsia;
+  }
 
 
 .headerImage {
@@ -214,6 +217,12 @@ footer nav a {
     text-decoration: none;
     margin-top: -20px;
 }
+footer nav a:hover{
+    color: gold;
+    -webkit-transform: rotateZ(-30deg);
+    -ms-transform: rotateZ(-30deg);
+    transform: rotateZ(-30deg);
+  }
 
 #aboutMain {
     display: flex;
@@ -253,4 +262,9 @@ footer nav a {
 }
 .aboutFooter{
     padding-top: 20px;
+}
+.contactDirections {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
