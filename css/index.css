@@ -132,6 +132,8 @@ nav a {
     justify-content: center;
 }
 
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -149,18 +151,23 @@ nav a {
 footer {
     width: 100%;
     background: black;
+    height: 60px;
 }
 
 footer nav {
-    width: 60%;
+    width: 85%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 2%;
-    font-size: 14px;
+    padding: 7px 2%;
+    font-size: 12px;
+    margin-left: -25px;
+    
+
 }
 
 footer nav a {
     color: white;
     text-decoration: none;
+    margin-top: -20px;
 }
