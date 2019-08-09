@@ -66,6 +66,14 @@ p {
     line-height: 1.4;
 }
 
+nav {
+    margin-left: 55px;
+    padding-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
 .headerImage {
     padding:30px;
     margin-left: 27px;
