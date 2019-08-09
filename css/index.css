@@ -67,7 +67,7 @@ p {
 }
 
 nav {
-    margin-left: 55px;
+    margin-left: 555px;
     padding-top: 25px;
     display: flex;
     flex-wrap: wrap;
@@ -86,11 +86,11 @@ nav a:hover{
 
 .headerImage {
     padding:30px;
-    margin-left: 27px;
+    margin-left: 525px;
 }
 .aboutHeaderImage{
     padding:30px;
-    margin-left: 27px;
+    margin-left: 525px;
 }
 .container-about-page {
     width: 800px;
