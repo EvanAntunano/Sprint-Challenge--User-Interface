@@ -85,7 +85,18 @@ nav a {
     padding:30px;
     margin-left: 27px;
 }
-
+.aboutHeaderImage{
+    padding:30px;
+    margin-left: 27px;
+}
+.container-about-page {
+    width: 800px;
+    margin: 0 auto;
+}
+.about-top-content {
+    padding-bottom: 10px;
+    border-bottom: 4px dotted grey;
+}
 .container {
     width: 800px;
     margin: 0 auto;
