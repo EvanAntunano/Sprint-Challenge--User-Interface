@@ -223,8 +223,34 @@ footer nav a {
     text-align: left;
 }
 #aboutMain .aboutGrid{
-    width: 48%;
+    width: 49%;
     background-color: white;
     padding: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 15px 5px 15px;
+    border-bottom: 1px dashed black;
+}
+#aboutMain .aboutGrid a {
+    display: block;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 35%;
+    padding: 7px 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-style: bold;
+    text-align: center;
+    
+}
+#aboutMain .aboutGrid img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#aboutMain .aboutGrid p {
+    padding-bottom: 8px;
+}
+.aboutFooter{
+    padding-top: 20px;
 }
